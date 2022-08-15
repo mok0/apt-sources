@@ -12,4 +12,5 @@ When creating a new OS entry, create a directory with this name:
 
 Put the `sources.list` file in the directory, strip out all comments,
 and don't include the `deb-src` entries. If there are files in `/etc/sources.list.d`
-create that subdirectory and place the files in there.
+create that subdirectory and place the files in there. Only include entries present 
+in the original distribution, no PPAs please.
