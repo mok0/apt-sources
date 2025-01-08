@@ -1,0 +1,2 @@
+#/etc/apt/sources.list
+deb cdrom:[Linux Mint 22 _Wilma_ - Release amd64 20240721]/ noble contrib main
