@@ -1,0 +1,5 @@
+Types: deb
+URIs: http://security.debian.org/
+Suites: bookworm-security
+Components: main contrib non-free non-free-firmware
+
